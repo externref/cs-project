@@ -6,7 +6,7 @@ A computer science project for AISSCE Practicals based on MySQL and MySQL python
 
 #### INSTALLING THE PROJECT 
 ```bash
-$git clone 
+$git clone git@github.com:sarthak-py/cs-project.git
 ```
 
 #### REQUIRMENTS:
