@@ -18,3 +18,6 @@ $git clone
 $python3 -m pip install mysql-connector-python colorama simple-term-menu
 ```
 
+#### HOW TO RUN THE PROGRAM
+Naviagte to the Project Folder and use `python .` .
+Alternatively, you can run `__main__.py` manually.
